@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="img/kid.gif"/>
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
 
 
