@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="850" height="350" alt="0_0" />
+<img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="850" height="350" alt="0_0" />
 
 
 
@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif
 -->
