@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="img/kid.gif" width="850" height="350" />
+<img src="img/kid.gif"/>
 
 
 
