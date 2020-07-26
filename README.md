@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="img/kid.gif" width="40" height="40" />
+
+
+
 <!--
 **DH4NRAJ/DH4NRAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
