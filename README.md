@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DH4NRAJ&show_icons=true&line_height=21&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH4NRAJ&show_icons=true&layout=compact&theme=tokyonight" />
+</a>
 
 [![Dhanraj's github stats](https://github-readme-stats.vercel.app/api?username=DH4NRAJ&show_icons=true&line_height=21&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
