@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DH4NRAJ&show_icons=true&line_height=21&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH4NRAJ&show_icons=true&layout=compact&theme=tokyonight" />
-</a>
+</div>
 
 
 
 
 <!--
 **DH4NRAJ/DH4NRAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://github.com/anuraghazra/convoychat">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
