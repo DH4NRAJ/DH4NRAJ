@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="850" height="350" alt="0_0" />
+![Dhanraj's github stats](https://github-readme-stats.vercel.app/api?username=DH4NRAJ&show_icons=true&theme=radical)
 
 
 
