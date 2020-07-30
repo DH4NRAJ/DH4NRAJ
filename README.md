@@ -3,7 +3,7 @@
 <div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DH4NRAJ&show_icons=true&line_height=21&show_icons=true&theme=tokyonight" />
  </div>
- <div align="right" style:"margin-left:20px;">
+ <div align="left" style:"margin-left:20px;">
  - 🔭 I’m currently working on ...
  <br>
 - 🌱 I’m currently learning ...
