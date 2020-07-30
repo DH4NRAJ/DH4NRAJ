@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DH4NRAJ&show_icons=true&line_height=21&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DH4NRAJ&show_icons=true&line_height=21&show_icons=true&theme=tokyonight" />
  </div>
  <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH4NRAJ&show_icons=true&layout=compact&theme=tokyonight" />
@@ -11,6 +11,7 @@
 
 
 <!--
+align="left"
 **DH4NRAJ/DH4NRAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://github.com/anuraghazra/convoychat">
 Here are some ideas to get you started:
