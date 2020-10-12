@@ -1,9 +1,8 @@
 ### Hi there 👋
-<!--
 <div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DH4NRAJ&show_icons=true&line_height=21&show_icons=true&theme=tokyonight" />
  </div>
-
+<--
 
  <div align="right" >
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH4NRAJ&show_icons=true&layout=compact&theme=tokyonight" />
