@@ -1,48 +1,20 @@
-### Hi there 👋
-<div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DH4NRAJ&show_icons=true&line_height=21&show_icons=true&theme=tokyonight" />
-</div>
+### Hello, geeks 👋
 
-<!--
- <div align="right" >
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH4NRAJ&show_icons=true&layout=compact&theme=tokyonight" />
-</div>
-**DH4NRAJ/DH4NRAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://github.com/anuraghazra/convoychat">
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/DH4NRAJ/DH4NRAJ/assets/56040211/f63bef62-0121-4672-8898-a3e8d5d70b14" width="100px">
+  <br><br>
+  <samp>
+   I'm Dhanraj, a passionate software developer with a data science obsession.
+     <br><br>Contact me on <a href="https://www.linkedin.com/in/dhanraj-k/">Linkedin</a>, <a href="https://dh4nraj.github.io/portfolio/">Website</a>, or <a href="mailto:dhanrajkrishnamurthy@gmail.com">Send an Email</a>
+  </samp>
+</p>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DH4NRAJ&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH4NRAJ&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+<details>	
+  <summary><b>⭐ GitHub Repos</b></summary>
+</details>
 
- <div align="left" style:"background-color: red;">
- - 🔭 I’m currently working on ...
- <br>
-- 🌱 I’m currently learning ...
-<br>
-- 👯 I’m looking to collaborate on ...
-<br>
-- 🤔 I’m looking for help with ...
-<br>
-- 💬 Ask me about ...
-<br>
-- 📫 How to reach me: ...
-<br>
-- 😄 Pronouns: ...
-<br>
-- ⚡ Fun fact: ...
-</div>
-
-<div align = "left">
-<h1>
-  Work
-</h1>
-</div>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif
-<img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="850" height="350" alt="0_0" />
-
--->
