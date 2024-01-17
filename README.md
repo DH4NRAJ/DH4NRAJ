@@ -17,4 +17,11 @@
 <details>	
   <summary><b>⭐ GitHub Repos</b></summary>
 </details>
+<details>	
+  <summary><b>⭐ GitHub Chart</b></summary>
+  <br /> 
+  <img src="https://ghchart.rshah.org/DH4NRAJ" alt="Dhanraj's Github chart" />
+</details>
+
+
 
